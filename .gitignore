@@ -1,0 +1,14 @@
+# Pliki Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+# Raport Excela
+*.xlsx
+
+# Środowiska virtualenv
+venv/
+.venv/
+
+# Pliki środowiskowe
+.env
